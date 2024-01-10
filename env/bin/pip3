@@ -1,4 +1,4 @@
-#!/home/marcelo/CURSOS/CursoEbac-BackEnd/Continuacao-back-end-python/Mod-6-Configurando-Django/mysite/env/bin/python3
+#!/home/marcelo/CURSOS/CursoEbac-BackEnd/Continuacao-back-end-python/Mod-8-Django-Views/mysite/env/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
